@@ -1,6 +1,8 @@
 
 import java.io.*;
 import java.util.*;
+
+
 /* Copyright Act 1957 section 13 - All Rights Reserved
  * You may use, distribute and modify this code under the
  * terms of the santa private ltd license, which unfortunately won't be
@@ -8,6 +10,8 @@ import java.util.*;
  * @author Santanu Sarkar
  * @version 2.1.2022
  */
+
+
 public class Search
 {
     public static void main(String []args)throws IOException
